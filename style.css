@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+div {
+    width: 400px;
+    height: 200px;
+    background: rebeccapurple;
+    margin: 20px auto;
+    text-align: center;
+    border-radius: 20px;
+    padding: 2px;
+}
+
+h1 {
+    color: rgb(234, 177, 221);
+    margin-top: 80px;
+
+}
+button{
+    /* margin: 20px auto; */
+    width: 90px;
+    height: 45px;
+    background:  rgb(234, 177, 221);
+    color: rebeccapurple;
+    outline: none;
+    border: solid 2px transparent;
+    border-radius: 30px;
+
+
+}
